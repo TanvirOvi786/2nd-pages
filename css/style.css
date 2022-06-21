@@ -631,4 +631,11 @@ text-align: left;
     } 
 
 }
+@media (max-width:375px){
+    .faq .ms-5{
+    
+        margin-left: 20px !important;
+        color: rgba(177, 0, 160, 1);
+    } 
+}
   
