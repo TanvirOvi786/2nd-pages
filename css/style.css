@@ -35,6 +35,10 @@ font-family: 'Poppins', sans-serif;*/
    text-align: left;
 
 }
+.nav-link span img{
+    height: 32px;
+    width: 32px;
+}
 .banner{
     background-image: url(../images/banner-1st.png);
     background-position: center;
@@ -87,7 +91,7 @@ font-family: 'Poppins', sans-serif;*/
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100vh;
+    height: auto;
 
 }
 .scetion-statistics .row{
@@ -201,7 +205,7 @@ font-family: 'Poppins', sans-serif;*/
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100vh;
+    height: auto;
 }
 .section-dashboard .text-uppercase{
     font-family: Bebas Neue;
@@ -256,7 +260,7 @@ line-height: 28px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100vh;
+    height: auto;
 }
 .section-hire .box-hire p{
     font-family: Roboto;
@@ -365,7 +369,7 @@ font-weight: 600;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100vh;
+    height: auto;
 }
 .faq img{
     width: 100px;
