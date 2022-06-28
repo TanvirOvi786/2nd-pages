@@ -7,7 +7,7 @@ font-family: 'Poppins', sans-serif;*/
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-
+ 
 }
 
 .navbar .navbar-brand{
@@ -41,6 +41,7 @@ font-family: 'Poppins', sans-serif;*/
 }
 .banner{
     background-image: url(../images/banner-1st.png);
+    background-color: #0C003D;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -86,7 +87,7 @@ font-family: 'Poppins', sans-serif;*/
 
 /*scetion-statistics-start*/
 .scetion-statistics{
-    background-color: rgba(46, 0, 103, 1);
+    background: #0C003D;
     background-image: url(../images/22.png);
     background-position: center;
     background-repeat: no-repeat;
@@ -151,7 +152,7 @@ font-family: 'Poppins', sans-serif;*/
 
 /*section-benifits-start*/
 .section-benifits{
-    background:rgba(36, 0, 106, 1);
+    background-color: #0C003D;
     background-image: url(../images/photo_2022-06-24_18-06-37.jpg);
     background-position: center;
     background-repeat: no-repeat;
@@ -200,7 +201,7 @@ font-family: 'Poppins', sans-serif;*/
 
 /*section-dashboard-start*/
 .section-dashboard{
-    background:rgba(36, 0, 106, 1);
+    background-color: #0C003D;
     background-image: url(../images/28.png);
     background-position: center;
     background-repeat: no-repeat;
@@ -255,7 +256,7 @@ line-height: 28px;
 
 /*section-hire-start*/
 .section-hire{
-    background:rgba(36, 0, 106, 1);
+    background-color: #0C003D;
     background-image: url(../images/20.png);
     background-position: center;
     background-repeat: no-repeat;
@@ -271,7 +272,7 @@ letter-spacing: 0em;
 
 }
 .section-hire .box-hire{
-    background-color: rgba(46, 15, 84, 0.7);
+    border: 2px solid #AF009F;
     border-radius: 12px;
 
 }
@@ -297,8 +298,8 @@ color: white;
 .section-hire  .two{
     float: right;
     margin-top: -110px;
+    background-color:rgba(27, 0, 76, 1);
     border-radius: 12px;
-    background-color: rgba(27, 0, 76, 1);
 }
 .color-G-dot{
     color: #0DFC65;
@@ -327,8 +328,7 @@ font-weight: 600;
 color: #0DFC65;
 }
 .another-box{
-    background-color: rgba(46, 15, 84, 0.7);
-
+    border: 2px solid #AF009F;
     border-radius: 12px;
 }
 .another-box p{
@@ -365,7 +365,7 @@ font-weight: 600;
 /*section-faq-srtart*/
 .faq{
     background-image:url(../images/1.png) ;
-    background-color:rgba(27, 0, 76, 1);
+    background-color: #0C003D;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -402,7 +402,7 @@ font-weight: 600;
 /*section-footer-end*/
 .footer{
     padding:48px 0px;
-    background: rgba(27, 0, 76, 1) !important;
+    background: #0C003D !important;
 }
 .footer a .one{
  background-color: rgba(75, 0, 114, 1);
